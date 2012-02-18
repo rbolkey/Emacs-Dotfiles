@@ -1,0 +1,5 @@
+# Emacs artifacts #
+###################
+.smex-items
+elpa/*
+places
